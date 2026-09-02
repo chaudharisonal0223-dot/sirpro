@@ -6,4 +6,8 @@
 .container{
     width: 1320px;
     padding: auto;
+    /* background-color: rosybrown; */
+    padding: 10px;
+    margin-right: 50%;
+    /* margin-left: 50%; */
 }
